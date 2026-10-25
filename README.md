@@ -7,9 +7,9 @@
 ## 👨‍💻 Sobre mí
 
 - 🎓 Estudiante / apasionado por el desarrollo de software
-- 📱 Construyo **apps Android con Kotlin**: e-commerce, gestión y apps utilitarias
+- 🏭 Desarrollando un **ERP real para una fábrica de calzado**: Laravel + React + Android en un monorepo
+- 📱 Construyo **apps Android con Kotlin**: e-books, gestión comercial y apps de producción
 - 🧠 Explorando **Machine Learning**: CNNs, clasificación de datos y notebooks en Jupyter
-- 🌐 También desarrollo **sistemas web en PHP** y proyectos de ciencia de datos
 - 📫 Cómo contactarme: [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/cristiancogollorg/) · [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristiancogollo4@gmail.com)
 
 ---
@@ -22,9 +22,9 @@
 
 ## 🧪 Lo que estoy haciendo
 
-- 🔭 Trabajando en **[biblion-web](https://github.com/cristiancogollo4-rgb/biblion-web)**
-- 🌱 Aprendiendo **Machine Learning aplicado a visión por computador**
-- 💬 Pregúntame sobre **Kotlin, Android y Python**
+- 🔭 Programando **[Biblion](https://github.com/cristiancogollo4-rgb/Biblion)** — app de lectura y estudio bíblico 100% offline (Compose + Room)
+- 🏆 Recién lanzado **[sistema_Lorentina](https://github.com/cristiancogollo4-rgb/sistema_Lorentina)** — ERP de fábrica de calzado (Laravel 13 + React 19 + Android)
+- 💬 Pregúntame sobre **Kotlin, Jetpack Compose, Laravel y Python**
 
 ---
 
@@ -46,13 +46,19 @@
 
 ## 🚀 Proyectos destacados
 
+### 🏭 PROYECTO INSIGNIA — LoreTina ERP
+
+> Sistema integral para una **fábrica de calzado real**: trazabilidad de producción por etapas, inventario multi-sucursal con transferencias, ventas multicanal, e-commerce con Mercado Pago y **nómina semanal** (por producción y comisiones). Un backend Laravel sirviendo a **tres clientes**: dashboard React, app Android en Compose y tienda pública.
+
+[![LoreTina ERP](https://img.shields.io/badge/Ver%20repositorio-sistema__Lorentina-5D4037?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiancogollo4-rgb/sistema_Lorentina)
+![Stack](https://img.shields.io/badge/Stack-Laravel%2013%20·%20React%2019%20·%20Kotlin%20Compose-FF2D20?style=for-the-badge&logo=stackshare)
+
 | Proyecto | Descripción | Tech |
 | --- | --- | --- |
-| [📦 AppLorentina](https://github.com/cristiancogollo4-rgb/AppLorentina) | Gestión de calzado con roles de vendedor y administrador | <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> |
-| [📚 Biblion](https://github.com/cristiancogollo4-rgb/Biblion) | App Android de biblioteca | <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> |
+| [📖 Biblion](https://github.com/cristiancogollo4-rgb/Biblion) 🚧 | App de lectura y estudio bíblico **offline**: lector, resaltados, búsqueda y modo estudio con editor enriquecido | <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> Room · Compose M3 |
+| [🎬 digitalstreaming](https://github.com/cristiancogollo4-rgb/digitalstreaming) | Gestor de ventas de suscripciones: catálogo, clientes, ventas con ganancia y alertas de vencimiento | <img src="https://skillicons.dev/icons?i=kotlin" height="20" /> Firebase |
 | [🌸 clasificador-flores-cnn](https://github.com/cristiancogollo4-rgb/clasificador-flores-cnn) | Clasificador de flores con redes neuronales convolucionales | <img src="https://skillicons.dev/icons?i=python" height="20" /> |
 | [🌱 cienciadedatos](https://github.com/cristiancogollo4-rgb/cienciadedatos) | Clasificación de semillas con ciencia de datos | <img src="https://skillicons.dev/icons?i=js,python" height="20" /> |
-| [🏬 sistema_Lorentina](https://github.com/cristiancogollo4-rgb/sistema_Lorentina) | Sistema web de gestión | <img src="https://skillicons.dev/icons?i=php" height="20" /> |
 | [🌐 biblion-web](https://github.com/cristiancogollo4-rgb/biblion-web) | Versión web de Biblion | <img src="https://skillicons.dev/icons?i=html,css" height="20" /> |
 
 ---
